@@ -10,5 +10,14 @@
 	<atom:link href="https://Khdbble.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>About</title>
+      <link>https://Khdbble.github.io/about/</link>
+      <pubDate>Fri, 12 Jun 2020 23:32:39 +0900</pubDate>
+      
+      <guid>https://Khdbble.github.io/about/</guid>
+      <description>who am i  Software Engineer (mostly backend)  Contact: naoki.honda.pma@gmail.com   Interests in low-layer stuffs  Compiler Operating System Security &amp;hellip; etc   Favorite language  English Golang C++   Ex-Singapore Mensa Math major (Probability Theory) but degree in Econ somehow what i like - coffee, workout, Mahjong, Texas Holdem, Hip Hop, sketching, Soccer (THFC)  where I&amp;rsquo;ve been  Future Corps. - Software Engineer Fintech Startup in Singapore - Frontend developer, worked on Vue project NTU (Nanyang Technological Univ.</description>
+    </item>
+    
   </channel>
 </rss>
