@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Naoki Honda</title>
-    <link>https://Khdbble.github.io/</link>
-    <description>Recent content on Naoki Honda</description>
+    <title>blog on Naoki Honda</title>
+    <link>https://Khdbble.github.io/tags/blog/</link>
+    <description>Recent content in blog on Naoki Honda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jun 2020 00:17:40 +0900</lastBuildDate>
     
-	<atom:link href="https://Khdbble.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Khdbble.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>Hiya! It&amp;rsquo;s been little over half a year since I started learning programming, so I decided to creat this page.
 I&amp;rsquo;ve got nothing more to say really, I know it&amp;rsquo;s so random but I just finna leave my favorite theorem (Girsanov Theorem) here and end the first post.
 Girsanov Theorem Let $(\phi_t)_{t\in [0,T]}$ be an adapted process satisfying the Novikov integrability condition $$ \mathbb{E}\bigg[\text{exp}\bigg( \frac{1}{2} \int^T_0 |\psi_t|^2 dt\bigg) \bigg] &amp;lt; \infty, $$ and let $\mathbb{Q}$ denote the probability measure defined by $$ \frac{d\mathbb{Q}}{d\mathbb{P}} = \text{exp}\bigg(-\int^T_0 \psi_s dB_s -\frac{1}{2}\int^T_0 |\psi_s|^2 ds \bigg) $$</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://Khdbble.github.io/about/</link>
-      <pubDate>Fri, 12 Jun 2020 23:32:39 +0900</pubDate>
-      
-      <guid>https://Khdbble.github.io/about/</guid>
-      <description>who am i  Software Engineer (mostly backend)  Contact: naoki.honda.pma@gmail.com   Interests in low-layer stuffs  Compiler Operating System Security &amp;hellip; etc   Favorite language  English Golang C++   Ex-Singapore Mensa Math major (Probability Theory) but degree in Econ somehow what i like - coffee, workout, Mahjong, Texas Holdem, Hip Hop, sketching, Soccer (THFC)  where I&amp;rsquo;ve been  Future Corps. - Software Engineer Fintech Startup in Singapore - Frontend developer, worked on Vue project NTU (Nanyang Technological Univ.</description>
     </item>
     
   </channel>

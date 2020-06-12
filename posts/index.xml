@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Naoki Honda</title>
+		<link>https://Khdbble.github.io/posts/</link>
+		<description>Recent content in Posts on Naoki Honda</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sat, 13 Jun 2020 00:17:40 +0900</lastBuildDate>
+		<atom:link href="https://Khdbble.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>First Post</title>
+			<link>https://Khdbble.github.io/posts/first-post/</link>
+			<pubDate>Sat, 13 Jun 2020 00:17:40 +0900</pubDate>
+			
+			<guid>https://Khdbble.github.io/posts/first-post/</guid>
+			<description>Hiya! It&amp;rsquo;s been little over half a year since I started learning programming, so I decided to creat this page.
+I&amp;rsquo;ve got nothing more to say really, I know it&amp;rsquo;s so random but I just finna leave my favorite theorem (Girsanov Theorem) here and end the first post.
+Girsanov Theorem Let $(\phi_t)_{t\in [0,T]}$ be an adapted process satisfying the Novikov integrability condition $$ \mathbb{E}\bigg[\text{exp}\bigg( \frac{1}{2} \int^T_0 |\psi_t|^2 dt\bigg) \bigg] &amp;lt; \infty, $$ and let $\mathbb{Q}$ denote the probability measure defined by $$ \frac{d\mathbb{Q}}{d\mathbb{P}} = \text{exp}\bigg(-\int^T_0 \psi_s dB_s -\frac{1}{2}\int^T_0 |\psi_s|^2 ds \bigg) $$</description>
+			<content type="html"><![CDATA[<h2 id="hiya">Hiya!</h2>
+<p>It&rsquo;s been little over half a year since I started learning programming, so I decided to creat this page.</p>
+<p>I&rsquo;ve got nothing more to say really, I know it&rsquo;s so random but I just finna leave my favorite theorem (Girsanov Theorem) here and end the first post.</p>
+<h2 id="girsanov-theorem">Girsanov Theorem</h2>
+<p>Let $(\phi_t)_{t\in [0,T]}$ be an adapted process satisfying the Novikov integrability condition
+$$
+\mathbb{E}\bigg[\text{exp}\bigg( \frac{1}{2} \int^T_0 |\psi_t|^2 dt\bigg) \bigg] &lt; \infty,
+$$
+and let $\mathbb{Q}$ denote the probability measure defined by
+$$
+\frac{d\mathbb{Q}}{d\mathbb{P}} = \text{exp}\bigg(-\int^T_0 \psi_s dB_s -\frac{1}{2}\int^T_0 |\psi_s|^2 ds \bigg)
+$$</p>
+<p>Then</p>
+<p>$$
+\hat{B}_t := B_t + \int^t_0 \psi_s ds, \qquad 0\leq t \leq T
+$$</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
