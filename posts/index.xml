@@ -14,12 +14,12 @@
 			<pubDate>Sat, 13 Jun 2020 00:17:40 +0900</pubDate>
 			
 			<guid>https://Khdbble.github.io/posts/first-post/</guid>
-			<description>Hiya! It&amp;rsquo;s been little over half a year since I started learning programming, so I decided to creat this page.
-I&amp;rsquo;ve got nothing more to say really, I know it&amp;rsquo;s so random but I just finna leave my favorite theorem (Girsanov Theorem) here and end the first post.
+			<description>Hiya! It&amp;rsquo;s been little over half a year since I started learning programming and I wanted to start keeping records of what I&amp;rsquo;m doing, so I decided to creat this page.
+I&amp;rsquo;ve got nothing more to say really, I know it&amp;rsquo;s so random but I just finna leave my favorite theorem (Girsanov Theorem) here and end the first post, solely because I love math!
 Girsanov Theorem Let $(\phi_t)_{t\in [0,T]}$ be an adapted process satisfying the Novikov integrability condition $$ \mathbb{E}\bigg[\text{exp}\bigg( \frac{1}{2} \int^T_0 |\psi_t|^2 dt\bigg) \bigg] &amp;lt; \infty, $$ and let $\mathbb{Q}$ denote the probability measure defined by $$ \frac{d\mathbb{Q}}{d\mathbb{P}} = \text{exp}\bigg(-\int^T_0 \psi_s dB_s -\frac{1}{2}\int^T_0 |\psi_s|^2 ds \bigg) $$</description>
 			<content type="html"><![CDATA[<h2 id="hiya">Hiya!</h2>
-<p>It&rsquo;s been little over half a year since I started learning programming, so I decided to creat this page.</p>
-<p>I&rsquo;ve got nothing more to say really, I know it&rsquo;s so random but I just finna leave my favorite theorem (Girsanov Theorem) here and end the first post.</p>
+<p>It&rsquo;s been little over half a year since I started learning programming and I wanted to start keeping records of what I&rsquo;m doing, so I decided to creat this page.</p>
+<p>I&rsquo;ve got nothing more to say really, I know it&rsquo;s so random but I just finna leave my favorite theorem (Girsanov Theorem) here and end the first post, solely because I love math!</p>
 <h2 id="girsanov-theorem">Girsanov Theorem</h2>
 <p>Let $(\phi_t)_{t\in [0,T]}$ be an adapted process satisfying the Novikov integrability condition
 $$
