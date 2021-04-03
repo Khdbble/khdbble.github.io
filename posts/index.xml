@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on a2not.github.io</title>
+		<title>Posts on a2not</title>
 		<link>https://a2not.github.io/posts/</link>
-		<description>Recent content in Posts on a2not.github.io</description>
+		<description>Recent content in Posts on a2not</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<lastBuildDate>Sat, 13 Jun 2020 00:17:40 +0900</lastBuildDate>
